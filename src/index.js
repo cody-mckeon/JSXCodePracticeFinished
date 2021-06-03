@@ -11,6 +11,7 @@ ReactDOM.render(
       <li>Burritos</li>
       <li>Pasta</li>
       <li>Bread</li>
+      <li>Sushi</li>
     </ul>
   </div>,
   document.getElementById("root")
