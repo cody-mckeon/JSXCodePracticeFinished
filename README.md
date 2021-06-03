@@ -1,2 +1,2 @@
-# JSXCodePracticeFinished
+# JSX-Code-Challenge
 Created with CodeSandbox
